@@ -1,0 +1,24 @@
+{
+  "name": "flyrpc",
+  "version": "0.9.0",
+  "description": "FlyRPC for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flyrpc/flyrpc-node.git"
+  },
+  "keywords": [
+    "RPC",
+    "socket",
+    "FlyRPC"
+  ],
+  "author": "guileen@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flyrpc/flyrpc-node/issues"
+  },
+  "homepage": "https://github.com/flyrpc/flyrpc-node"
+}
